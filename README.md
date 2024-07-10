@@ -2,6 +2,7 @@
 This project involves the creation of a comprehensive Power BI dashboard to analyze IPL data from 2008 to 2023. The dashboard covers over 1,200 matches, 10+ teams, and 500+ players, providing detailed insights into team and player performances.
 
 **Key Features**
+
 **Data Processing:** Automated data cleaning and transformation processes using Power Query Editor, reducing processing time by 95%.
 
 **Interactive Visualizations**: Implemented slicers and filters for dynamic analysis, increasing data accessibility by 80%.
