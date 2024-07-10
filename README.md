@@ -9,6 +9,6 @@ Tools Used
 Power BI
 DAX
 Power Query Editor
-This dashboard aims to enhance decision-making by providing clear and actionable insights into IPL data.
+This dashboard enhances decision-making by providing clear and actionable insights into IPL data.
 
 
